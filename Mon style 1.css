@@ -1,0 +1,125 @@
+
+
+
+
+
+.slider_container{
+    width: 750px;
+    overflow: hidden;
+    
+    text-align: center;
+    margin-left: 12%;
+
+}
+
+.slides{
+    width: calc( 750px * 4);
+    animation: sliding 13s infinite;
+  
+
+}
+
+.slide{
+    float: left;
+  
+    
+}
+
+@keyframes sliding{
+    0%{
+        transform: translateX(0);
+    }
+    13%{
+        transform: translateX(0);
+    }
+    26%{
+        transform: translateX(-750px);
+    }
+    36%{
+        transform: translateX(-750px);
+    }
+    49%{
+        transform: translateX(-1500px);
+    }
+    59%{
+        transform: translateX(-1500px);
+    }
+    72%{
+        transform: translateX(-2250px);
+    }
+    82%{
+        transform: translateX(-2250px);
+    }
+    100%{
+        transition: translateX(0);
+    }
+}
+
+
+
+
+
+
+.TitreNA{
+    margin-left: 18%;
+    padding-top: 0% ;
+    margin-bottom: 1% ;
+    color: rgb(110, 108, 108) ;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-stretch: ultra-expanded;
+    font-size: 260%;
+}
+.TitreBIO{
+    padding-top: 3%;
+    color: rgb(110, 108, 108) ;
+    font-family:Arial, sans-serif;
+    font-weight: 500;
+    font-stretch: ultra-expanded;
+    font-size: 300%;
+    margin-bottom: 0%;
+    margin-top: 0%; 
+}
+
+.Titreparagraphe{
+    padding-top: 0% ;
+    margin-top: 0.5%;
+    margin-bottom: 0% ;
+    color: rgb(110, 108, 108) ;
+    font-family:Arial, sans-serif;
+    font-weight: 500;
+    font-stretch: ultra-expanded;
+    font-size: 150%;
+    margin-left: 4%;
+}
+.Paragraphe{ 
+    color: black ;
+    font-family:georgia;
+    width: 80%;
+    margin-bottom: 0%;
+    margin-top: 2.5%; 
+    margin-left: 7%;
+    font-size: 120%;
+
+}
+
+blockquote {
+    background: url("Photo acceuil/pullquote.gif") no-repeat scroll 0 0 transparent;
+    font: italic 120% georgia;
+    color: rgb(45, 90, 3) ;
+    margin: 1em 22% 0;
+    padding: 10px 5px 15px 60px;
+    width: 40%;
+    text-align: justify;
+  }
+  blockquote:hover{
+    font: italic 120% georgia;
+    color: rgb(0, 0, 0) ;
+    margin: 1em 22% 0;
+    padding: 10px 5px 15px 60px;
+    width: 40%;
+    text-align: justify;
+    font-size: 135%;
+    font-weight: bolder;
+    
+}

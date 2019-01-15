@@ -1,0 +1,262 @@
+body{
+	margin: 0%;
+	padding: 0%;
+	background-color: rgb(218, 218, 218);
+}
+
+#entete h1{
+	text-align: center;
+	margin-top: 0%;
+	padding-top: 15px;
+	padding-bottom: 15px; 
+	color: white;
+	background-color: #4caf50;
+}
+
+
+img{
+	padding-top: 0.5%;
+	padding-left: 2%;
+	float: right;
+	width: 500px;
+}
+
+#infos_perso{
+	float: right;
+	width: 500px;
+	font-size: 1.2em;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.infos{
+	list-style: none;
+}
+
+#loisirs{
+	margin-top: -350px;
+	text-align: center;
+}
+
+#loisirs ul{
+	font-size: 1.2em;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#langues{
+	text-align: center;
+}
+
+#langues h1{
+	padding-top: 0;
+	margin-top: 0;
+}
+
+#langues ul{
+	list-style: none;
+	font-size: 1.2em;
+	padding: 0;
+	margin: 0;
+}
+
+#extra_pro{
+	float: right;
+	width: 500px;
+}
+
+h1{
+	background-color: #4caf50;
+	color: white;
+	padding-left: 20px; 
+}
+
+#exp_pro{
+	width: calc(100% - 650px);
+	margin-left: 7%;
+	margin-top: 2%;
+}
+
+.exp_pro{
+	margin-left: 40px;
+}
+
+.exp_pro h2{
+	margin-bottom: 0%;
+	padding-bottom: 0%;
+	color: #3d8840;
+}
+
+#formations{
+	width: calc(100% - 650px);
+	margin-left: 7%;
+}
+
+.formations{
+	margin-left: 40px;
+}
+
+.formations h2{
+	margin-bottom: 0%;
+	padding-bottom: 0%;
+	color: #3d8840;
+}
+
+#competences{
+	width: calc(100% - 650px);
+	margin-left: 7%;
+}
+
+
+.dates{
+	margin: 0px 20px;
+	padding: 0px 0px;
+	font-size: 1.1em;
+}
+
+.entreprise{
+	font-weight: bolder;
+	margin-left: 30px;
+	color: #4caf50;
+}
+
+.description{
+	text-align: justify;
+	font-size: 1.1em;
+	margin-bottom: 4%;
+}
+
+.ecoles{
+	font-weight: bolder;
+	margin-left: 30px;
+	font-size: 1.1em;
+	color: #4caf50
+}
+
+.competences{
+	text-align: center;
+}
+
+.logiciels{
+	display: inline-block;
+	margin: 15px 15px;
+}
+
+.sketchup{
+	display: block;
+	color: rgb(192, 71, 97);
+	font-weight: bolder;
+	font-size: 1.5em;
+	text-shadow: 1px 1px 1px black;
+}
+
+.photoshop{
+	display: block;
+	color: blue;
+	font-weight: bolder;
+	font-size: 1.5em;
+	text-shadow: 1px 1px 1px black;
+}
+
+.indesign{
+	display: block;
+	color: violet;
+	font-weight: bolder;
+	font-size: 1.5em;
+	text-shadow: 1px 1px 1px black;
+}
+
+.autocad{
+	display: block;
+	color: red;
+	font-weight: bolder;
+	font-size: 1.5em;
+	text-shadow: 1px 1px 1px black;
+}
+
+.illustrator{
+	display: block;
+	color: yellow;
+	font-weight: bolder;
+	font-size: 1.5em;
+	text-shadow: 1px 1px 1px black;
+}
+
+.office{
+	display: block;
+	color: orange;
+	font-weight: bolder;
+	font-size: 1.5em;
+	text-shadow: 1px 1px 1px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.endcontact{
+    text-align: right;
+    padding-right: 1.5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    
+    color: black ;
+    list-style: none;
+}
+#Fin a{
+    text-decoration: none;
+   
+}   
+#Fin {
+    margin-top: 4%;
+   
+} 
+
+.end{      
+    text-align: right;
+    padding-right: 1.5%;
+    margin-top: 0%;
+    margin-bottom: 1.5%;
+    font-family: 'Times New Roman', Times, serif;
+    
+    color: rgb(0, 0, 0) ;
+    list-style: none;
+}
+
+.Back{    
+      
+    margin-left: 7%;
+    font-family: 'Times New Roman', Times, serif;    
+    color: black ;
+    list-style: none;
+    display: inline;
+    font-weight: bolder;
+}
+
+.Back:hover{
+    color: rgb(196, 26, 4);
+    
+}
+.Acc{    
+    font-family: 'Times New Roman', Times, serif;
+    color: black ;
+    list-style: none;
+    text-align: center;
+    display: inline;
+    font-weight: bolder;
+}
+.Acc:hover{
+    color:rgb(196, 26, 4);
+    
+}

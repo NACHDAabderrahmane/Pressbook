@@ -1,0 +1,196 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    
+    background-color: rgb(255, 255, 255);
+}
+
+#principal img{
+    width: 60%; 
+    
+}
+#principal {
+    text-align: center;
+
+}
+#photo{
+    text-align: left;
+    margin-left: 20%;
+    padding-top: 0%
+}
+
+#photo img{
+    width: 100px;
+    margin-left: 8%;
+}
+
+.menu{
+    position: absolute;
+    top: 1em;
+    
+    width: 18%;
+    
+}
+
+.menu a{
+    text-decoration: none;
+    color: black ;
+    font-family:Arial, sans-serif;
+    
+}
+
+.menu a:hover{
+    color: rgb(145, 143, 143);
+    
+}
+.title {
+    list-style: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.sub-title{
+    list-style: none;
+    padding-inline-start: 0%;
+}
+.sub-title:hover{
+   
+    padding-inline-start: 8%;
+}   
+.description{
+    width: 150px;
+    text-align: center;
+    float: center;
+    margin-left: 12%;
+    margin-top: 0%;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+#fond img{
+    opacity: 0,2;
+    
+   
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    width: 45%;
+   
+}
+
+
+
+
+.name{
+    padding-top: 2%;
+    margin-bottom: 0%;
+    color: rgb(110, 108, 108);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-stretch: ultra-expanded;
+    font-size: 200%;
+    padding-left: 2%;
+}
+#content{
+    position: absolute;
+    top: 0em;
+    right: 0%;
+    margin-top: 0%;
+    padding-top: 0%;
+    width: 82%;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.Titre{
+    padding-top: 0%;
+    color: rgb(110, 108, 108) ;
+    font-family:Arial, sans-serif;
+    font-weight: 500;
+    font-stretch: ultra-expanded;
+    font-size: 300%;
+}
+.Commentairephoto{ 
+    color: black ;
+    font-family:Arial, sans-serif;
+    width: 80%;
+    margin-bottom: 0%;
+    margin-top: 3%; 
+    font-weight: bolder;
+    font-size: 120%;
+    padding-left: 5%;
+
+}
+.Commentaire{ 
+    color: black ;
+    font-family:Arial, sans-serif;
+    width: 80%;
+    margin-bottom: 0%;
+    margin-top: 1%; 
+    font-weight: bolder;
+    font-size: 120%;
+    padding-left: 5%;
+
+}
+#principal{
+    text-align: left
+}
+
+.Date{
+    color: black ;
+    font-family:Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 85%;
+    margin-bottom: 0%;
+    margin-top: 0,2%
+}
+
+
+
+
+
+.endcont{
+    text-align: left;
+    padding-left: 3%;
+    margin-top: 27%;
+    margin-bottom: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: black ;
+    list-style: none;
+}
+.endcontact{
+    text-align: left;
+    padding-left: 3%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: black ;
+    list-style: none;
+}
+#Fin a{
+    text-decoration: none;
+   
+}   
+#Fin {
+    margin-top: 4%;
+   
+} 
+
+.end{      
+    text-align: left;
+    padding-left: 3%;
+    margin-top: 0%;
+    margin-bottom: 1,5%;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: rgb(0, 0, 0) ;
+    list-style: none;
+}
+

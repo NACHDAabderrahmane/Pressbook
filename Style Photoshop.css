@@ -1,0 +1,198 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    
+    background-color: rgb(255, 255, 255);
+}
+
+#principal img{
+    width: 60%; 
+    
+}
+#principal {
+    text-align: center;
+
+}
+#photo{
+    text-align: left;
+    margin-left: 20%;
+    padding-top: 0%
+}
+
+#photo img{
+    width: 100px;
+    margin-left: 8%;
+}
+
+.menu{
+    position: absolute;
+    top: 1em;
+    
+    width: 18%;
+    
+}
+
+.menu a{
+    text-decoration: none;
+    color: black ;
+    font-family:Arial, sans-serif;
+    
+}
+
+.menu a:hover{
+    color: rgb(145, 143, 143);
+    
+}
+.title {
+    list-style: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.sub-title{
+    list-style: none;
+    padding-inline-start: 0%;
+}
+.sub-title:hover{
+   
+    padding-inline-start: 6%;
+}   
+.description{
+    width: 150px;
+    text-align: center;
+    float: center;
+    margin-left: 12%;
+    margin-top: 0%;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+
+
+#content{
+    position: absolute;
+    top: 0em;
+    right: 0%;
+    margin-top: 0%;
+    padding-top: 0%;
+    width: 82%;
+    background-color: rgb(251, 251, 251);
+}
+
+.Titre{
+    padding-top: 0%;
+    color: rgb(110, 108, 108) ;
+    font-family:Arial, sans-serif;
+    font-weight: 500;
+    font-stretch: ultra-expanded;
+    font-size: 300%;
+}
+.Commentairephoto{ 
+    color: black ;
+    font-family:Arial, sans-serif;
+    width: 80%;
+    margin-bottom: 0%;
+    margin-top: 4%; 
+
+}
+.Betwen{ 
+    color: black ;
+    font-family:Arial, sans-serif;
+    width: 80%;
+    margin-bottom: 0%;
+    margin-top: 1,5%; 
+    
+
+}
+#principal{
+    text-align: left
+}
+
+.Date{
+    color: black ;
+    font-family:Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 85%;
+    margin-bottom: 0%;
+    margin-top: 0,2%
+}
+.Day{
+    color: black ;
+    font-family:Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 150%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+
+.Everytime{
+    color: rgb(0, 0, 0) ;
+    font-family:Arial, sans-serif;
+    font-weight: bolder;
+    width: 85%;
+    font-size: 100%;
+    margin-bottom: 0%;
+    margin-top: 3%;
+}
+
+
+
+.endcontact{
+    text-align: right;
+    padding-right: 1.5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    
+    color: black ;
+    list-style: none;
+}
+#Fin a{
+    text-decoration: none;
+   
+}   
+#Fin {
+    margin-top: 4%;
+   
+} 
+
+.end{      
+    text-align: right;
+    padding-right: 1.5%;
+    margin-top: 0%;
+    margin-bottom: 1.5%;
+    font-family: 'Times New Roman', Times, serif;
+    
+    color: rgb(0, 0, 0) ;
+    list-style: none;
+}
+.Back{    
+      
+    margin-left: ;
+    font-family: 'Times New Roman', Times, serif;    
+    color: black ;
+    list-style: none;
+    display: inline;
+    font-weight: bolder;
+}
+
+.Back:hover{
+    color: rgb(196, 26, 4);
+    
+}
+.Acc{    
+    font-family: 'Times New Roman', Times, serif;
+    color: black ;
+    list-style: none;
+    text-align: center;
+    display: inline;
+    font-weight: bolder;
+}
+.Acc:hover{
+    color:rgb(196, 26, 4);
+    
+}
+
+
+
+
