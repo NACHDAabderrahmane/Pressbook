@@ -159,6 +159,14 @@ h1{
 	text-shadow: 1px 1px 1px black;
 }
 
+.vectorworks{
+	display: block;
+	color: black;
+	font-weight: bolder;
+	font-size: 1.5em;
+	text-shadow: 1px 1px 1px black;
+}
+
 .indesign{
 	display: block;
 	color: violet;
