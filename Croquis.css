@@ -1,0 +1,104 @@
+#Nom a{
+	text-align: center;
+	text-decoration: none;
+    color: black ;
+    font-family:Arial, sans-serif;
+}
+
+.Kindsketch{
+	background-color: rgb(224, 219, 219);
+    padding-top: 0%;
+    color: rgb(255, 255, 255) ;
+    font-family:Arial, sans-serif;
+    font-weight: 500;
+    font-stretch: ultra-expanded;
+	font-size: 200%;
+	text-align:center;
+}
+
+.card{
+	display: inline-block;
+	width: 250px;
+	height: 350px;
+	margin: 5px 5px;
+}
+
+.card img{
+	width:250px;
+	height: 350px;
+    padding: 5px 5px;
+}
+
+
+.card p{
+	margin-bottom: 3px;
+	margin-top: 2px;
+	font-weight:bolder;
+}
+
+.card{
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+	font-weight: normal;
+}
+
+.card a{
+	text-decoration: none; 
+	font-weight: normal;
+	
+}
+
+.card:hover {
+	-webkit-transform: scale(0.90);
+	transform: scale(0.90);
+	font-weight: normal;
+
+}
+
+
+
+
+
+.bord{
+	display: inline-block;
+	width: 500px;
+	height: 350px;
+	margin: 5px 5px;
+}
+
+
+.bord img{
+	width:500px;
+	height: 350px;
+    padding: 5px 5px;
+}
+
+
+.bord p{
+	margin-bottom: 3px;
+	margin-top: 2px;
+	font-weight:bolder;
+}
+
+.bord{
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+	font-weight: normal;
+}
+
+.bord a{
+	text-decoration: none; 
+	font-weight: normal;
+	
+}
+
+.bord:hover {
+	-webkit-transform: scale(0.90);
+	transform: scale(0.90);
+	font-weight: normal;
+
+}
