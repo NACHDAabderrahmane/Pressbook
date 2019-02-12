@@ -1,0 +1,353 @@
+
+body{
+    
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+#principal img{
+    width: 60%; 
+    
+}
+#principal {
+    text-align: center;
+
+}
+#photo{
+    text-align: left;
+    margin-left: 20%;
+    padding-top: 0%
+}
+
+#photo img{
+    width: 100px;
+    margin-left: 8%;
+}
+
+.menu{
+    position: absolute;
+    top: 1em;
+    
+    width: 18%;
+    
+}
+
+.menu a{
+    text-decoration: none;
+    color: black ;
+    font-family:Arial, sans-serif;
+    
+}
+
+.menu a:hover{
+    color: rgb(145, 143, 143);
+    
+}
+.title {
+    list-style: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.sub-title{
+    list-style: none;
+    padding-inline-start: 0%;
+}
+.sub-title:hover{
+   
+    padding-inline-start: 8%;
+}   
+.description{
+    width: 150px;
+    text-align: center;
+    float: center;
+    margin-left: 12%;
+    margin-top: 0%;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#fond img{
+    opacity: 0,2;
+    background-attachment: fixed;   
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    width: 1070px;
+    
+    padding-right:0%;
+   
+}
+
+
+
+
+
+
+#conteur
+{ 
+    text-align: right;
+    padding-left: 3%;
+    margin-top: 0%;
+    margin-bottom: 0,5%;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: black ;
+    list-style: none;
+    font-size: 10px;
+
+
+} 
+
+
+.name{
+    margin-block-start: 0em;
+    ;
+    padding-top: 0%;
+    margin-bottom: 0%;
+    color: rgb(0, 0, 0);
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-stretch: ultra-expanded;
+    font-size: 250%;
+    padding-left: 13%;
+}
+#content{
+    background-image:url(Contat.jpg);
+    
+    background-repeat:no-repeat;
+    position: absolute;
+    top: 0em;
+    right: 0%;
+    margin-top: 0%;
+    padding-top: 0%;
+    width: 82%;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.Titre{
+    padding-top: 0%;
+    width: 23%;
+    
+    margin-bottom: 0%;
+    color: rgb(110, 108, 108) ;
+    font-family:Arial, sans-serif;
+    font-weight: 500;
+    font-stretch: ultra-expanded;
+    font-size: 300%;
+    background-color: rgb(255, 255, 255);
+}
+.Commentairephoto{ 
+    color: black ;
+    font-family:Arial, sans-serif;
+    width: 38%;
+    margin-bottom: 0%;
+    margin-top: 27%; 
+    font-weight: bolder;
+    font-size: 120%;
+    padding-left: 5%;
+    background-color: rgb(255, 255, 255);
+}
+.Commentaire{ 
+    color: black ;
+    font-family:Arial, sans-serif;
+    width: 20%;
+    margin-bottom: 0%;
+    margin-top: 1%; 
+    font-weight: bolder;
+    font-size: 120%;
+    padding-left: 5%;
+    background-color: rgb(255, 255, 255);
+}
+.Invitation{ 
+    color: black ;
+    font-family:Arial, sans-serif;
+    width: 55%;
+    margin-bottom: 0%;
+    margin-top: 1%; 
+    font-weight: bolder;
+    font-size: 120%;
+    padding-left: 5%;
+    background-color: rgb(255, 255, 255);
+}
+#principal{
+    text-align: left
+}
+
+.Date{
+    color: black ;
+    font-family:Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 85%;
+    margin-bottom: 0%;
+    margin-top: 0,2%;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+.endcont{
+    text-align: left;
+    padding-left: 3%;
+    margin-top: 13%;
+    margin-bottom: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: black ;
+    list-style: none;
+
+}
+.endcontact{
+    text-align: left;
+    padding-left: 3%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: black ;
+    list-style: none;
+}
+#Fin a{
+    text-decoration: none;
+   
+}   
+#Fin {
+    margin-top: 4%;
+   
+} 
+
+.end{      
+    text-align: left;
+    padding-left: 3%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: rgb(0, 0, 0) ;
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .contact {
+        background-color: #FFF;
+        height: 700px;
+        padding-top: 50px;
+    }
+     
+    .titrecontact {
+        font-size: 2.5em;
+        color: #233140;
+        border-bottom: 5px solid #233140;
+        max-width: 250px;
+        text-align: center;
+        margin: auto;
+    }
+     
+    .form-style-8{
+        width: 60%;
+        margin: auto;
+        padding-top: 75px;
+    }
+     
+    .form-style-8 input[type="text"],
+    .form-style-8 input[type="date"],
+    .form-style-8 input[type="datetime"],
+    .form-style-8 input[type="email"],
+    .form-style-8 input[type="number"],
+    .form-style-8 input[type="search"],
+    .form-style-8 input[type="time"],
+    .form-style-8 input[type="url"],
+    .form-style-8 input[type="password"],
+    .form-style-8 textarea,
+    .form-style-8 select
+    {
+        display: block;
+        width: 60%;
+        padding: 7px;
+        border: none;
+        border-bottom: 1px solid #233140;
+        background: transparent;
+        margin-bottom: 10px;
+        margin: auto;
+        height: 45px;
+        font-family: 'Conv_Share-Regular';
+        font-size: 1.5em;
+        color: #233140;
+    }
+     
+    .form-style-8 textarea{
+        resize:none;
+        overflow: hidden;
+        color: #233140;
+    }
+     
+    .form-style-8 input[type="button"],
+    .form-style-8 input[type="submit"]{
+        -moz-box-shadow: inset 0px 1px 0px 0px #2C3E50;
+        -webkit-box-shadow: inset 0px 1px 0px 0px #2C3E50;
+        background-color: #2C3E50;
+        border: 3px solid #233140;
+        display: inline-block;
+        cursor: pointer;
+        color: #FFFFFF;
+        font-size: 14px;
+        padding: 8px 18px;
+        text-decoration: none;
+        text-transform: uppercase;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        margin: auto;
+        text-align: center;
+        margin-top: 10px;
+        font-family: 'Conv_Share-Regular';
+        width: 10%;
+    }
+     
+    .form-style-8 input[type="button"]:hover,
+    .form-style-8 input[type="submit"]:hover {
+        background:-webkit-linear-gradient(top, #233140 5%, #233140 100%);
+        background:linear-gradient(to bottom, #233140 5%, #233140 100%);
+        background-color:#233140;
+    }
+     
+    .paddingtop {
+        margin-top: 100px;
+    }
+     
+    textarea:-moz-placeholder {
+        color: #233140;
+    }
+       
+    textarea::-webkit-input-placeholder {
+        color: #233140;
+    }
+     
+     
+    input:-moz-placeholder {
+        color: #233140;
+    }
+       
+    input::-webkit-input-placeholder {
+        color: #233140;
+    }
