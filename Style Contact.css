@@ -112,6 +112,7 @@ body{
     padding-left: 2%;
 }
 #content{
+    
     position: absolute;
     top: 0em;
     right: 0%;
@@ -209,3 +210,25 @@ body{
     list-style: none;
 }
 
+.facebook{    
+    width: 3%;
+    padding-left: 1%;
+}
+
+.Linked{    
+    width: 3%;
+    padding-left: 1%;
+    
+    
+}
+
+.Issuu{    
+    width: 3%;
+    
+    
+}
+.Ytb{    
+    width: 3%;
+    padding-left: 1%;
+    
+}
