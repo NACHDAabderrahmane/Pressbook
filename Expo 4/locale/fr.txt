@@ -1,0 +1,46 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sans titre 2
+
+## Media
+
+### Title
+album_206162F6_3473_C043_41B2_18ED0DEABE69.label = Album Photo ROSE SAISONS GALERIE_FIN_Plan de travail 1
+album_206162F6_3473_C043_41B2_18ED0DEABE69_0.label = ROSE SAISONS GALERIE_FIN_Plan de travail 1
+album_209188C4_3472_4045_41BD_99ED07382CCC.label = Album Photo ROSE SAISONS GALERIE_FIN_Plan de travail 1
+album_209188C4_3472_4045_41BD_99ED07382CCC_0.label = ROSE SAISONS GALERIE_FIN_Plan de travail 1
+album_27149BFA_3451_C03F_41C9_0511273B5EAE.label = Album Photo CANOPEE OISEAUX GALERIE_FIN-01
+album_27149BFA_3451_C03F_41C9_0511273B5EAE_0.label = CANOPEE OISEAUX GALERIE_FIN-01
+panorama_4C036354_4353_C84A_41AC_334B2FAA82AF.label = pano_1 - Panorama 
+panorama_4C145656_4357_C877_41CB_3B8995D5A521.label = pano 11
+panorama_4C39C297_4350_C8F5_41A0_6C5536A58B36.label = pano_6 -effets premiere pano
+panorama_4C3E3346_4350_4857_41CC_7CF4B9169322.label = pano_10 - Panorama 
+panorama_4DCF825C_4350_C87B_41B5_07447BB80AAB.label = pano_9 - Panorama 
+panorama_4DDFC1CC_4350_4854_41C2_1CF62246E1DF.label = pano_8 - Panorama 
+panorama_4DF8FE2F_4350_5BD5_41B9_9E0DB8C0C12D.label = pano_7 - Panorama 
+panorama_511D6055_42AD_89FA_41C1_0394C376A506.label = pano_3 - Panorama 
+panorama_519DF710_42D7_9777_41A6_31878D82B4B8.label = pano_4 - Panorama 
+panorama_52FBF8B6_42D0_78AB_41C5_01E9FDEEBE82.label = pano_2 - Panorama 
+panorama_56B02D5B_42D7_9BE8_41C9_3DC782DAA455.label = pano_5 - Panorama 
+video_35DC910E_3EAD_2739_41C3_E8A8AB3C5BB5.label = 210129 EXPO VIRTUELLE TER_1
+
+## Action
+
+### URL
+LinkBehaviour_32155F86_3D10_F378_41CE_5FA3A979E3A1.source = https://www.decitre.fr/livres/territoires-9783764388881.html
+LinkBehaviour_321A8F87_3D10_F378_41BE_BE3E3B67AE2D.source = https://www.lavoisier.fr/livre/genie-civil-BTP/357824-ha-de-paysages-habites-agence-ter/ardenne-p/descriptif_2819763
+LinkBehaviour_321A9F87_3D10_F378_41C6_1301152D27D3.source = https://www.placedeslibraires.fr/livre/9782863642184-l-urbanisme-des-milieux-vivants-ariella-masboungi-henri-bava-michel-hossler-olivier-philippe/
+LinkBehaviour_321ABF87_3D10_F378_41A8_0EC9B9F37FB1.source = https://www.eyrolles.com/BTP/Livre/fragments-de-paysage-agence-ter-9782916977201/
+LinkBehaviour_3615926D_3815_8FA0_41B4_2B600AA1FFAE.source = https://librairievolume.bigcartel.com/product/ter_sols_vivants
+PopupWebFrameBehaviour_20F4ABB7_3432_C0DC_41AE_D5E9A125C2F1.url = //www.youtube.com/embed/jWdRqEnBHAc
+PopupWebFrameBehaviour_222199BA_34D2_40E7_41C2_D242CA4C103B.url = //www.youtube.com/embed/WbFJD3b7tMo
+PopupWebFrameBehaviour_235816F6_34D6_406E_41BC_A30CBF6F5741.url = //www.youtube.com/embed/KF2rxqQrdyk
+PopupWebFrameBehaviour_239A8503_34D2_41A5_4192_47C3E4378496.url = //www.youtube.com/embed/x2OeU7cMcvA
+PopupWebFrameBehaviour_23ADC4DA_34F1_C0A1_41C5_995A4288FCE0.url = //www.youtube.com/embed/2aXaShR0gN8
+PopupWebFrameBehaviour_23D162B8_34D6_40E2_41A3_FE689620B490.url = //www.youtube.com/embed/v_8PN7k6gRA
+PopupWebFrameBehaviour_23FDC45F_34D6_405E_41B1_BCD936090E1A.url = //www.youtube.com/embed/DfACckzVsS4
